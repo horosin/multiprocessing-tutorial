@@ -1,1 +1,6 @@
 .ipynb_checkpoints/
+in_dir/
+out_dir/
+ven/
+venv/
+*.txt
